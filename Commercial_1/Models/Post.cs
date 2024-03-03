@@ -13,6 +13,9 @@
 
         public string Description { get; set; }
 
+        public string Detail { get; set; }
+
+
 
         public List<User_Post_Member> Member_List { get; set; }
 
