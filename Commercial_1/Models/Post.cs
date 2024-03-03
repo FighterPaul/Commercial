@@ -19,6 +19,10 @@
         public string Number { get; set; }
 
 
+        public string NumberNumber_2 { get; set; }
+
+
+
 
 
         public List<User_Post_Member> Member_List { get; set; }
